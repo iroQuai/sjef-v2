@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /c2c-berlijn
+path: /portfolio/c2c-berlijn
 date: 2021-09-20T15:05:49.332Z
 title: C2C Berlijn
 thumbnail: /assets/c2c-berlijn.jpg
