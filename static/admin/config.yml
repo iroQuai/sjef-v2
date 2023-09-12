@@ -1,8 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
-
+  repo: iroQuai/sjefv2
 media_folder: static/assets
 public_folder: /assets
 

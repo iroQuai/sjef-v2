@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Jeff's portfolio",
+  "siteUrl": "https://sjefv2.netlify.com/",
+  "description": "kijk nou hoe mooi die man kan monteren!",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! Ik ben Jeff",
+    "description": "Ik maak filmpjes, monteer en draai platen op goeie feestjes. Kijk vooral rond want hier staan me toch een paar mooie videos waar ik mijn hand op heb gelegd! Genbiet er maar van :)"
   }
 }
