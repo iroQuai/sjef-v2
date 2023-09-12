@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   # change repo to your git repository url
   repo: iroQuai/sjef-v2
+
+locale: 'nl'
+
 media_folder: static/assets
 public_folder: /assets
 
